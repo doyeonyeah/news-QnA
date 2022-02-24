@@ -2,4 +2,4 @@ anvil-uplink>=0.3.41
 newspaper3k>=0.2.8
 pygooglenews>=0.1.2
 transformers>=4.13.0
-feedparser>=5.2.1
+feedparser==5.2.1
