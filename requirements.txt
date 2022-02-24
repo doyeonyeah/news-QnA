@@ -1,4 +1,5 @@
 anvil-uplink
+feedparser
 newspaper3k
 pygooglenews
 transformers
