@@ -1,4 +1,4 @@
-anvil-uplink==0.3.41
+anvil-uplink
 newspaper3k
 pygooglenews
-transformers==4.13.0
+transformers
