@@ -1,3 +1,2 @@
 setuptools<58
 anvil-uplink==0.3.41
-tensorflow==2.8.0
