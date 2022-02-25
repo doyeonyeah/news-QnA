@@ -1,4 +1,4 @@
-"setuptools<58"
+setuptools<58
 feedparser==5.2.1
 pygooglenews==0.1.2
 anvil-uplink==0.3.41
