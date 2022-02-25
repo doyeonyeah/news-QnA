@@ -1,4 +1,4 @@
-setuptools<58
+setuptools==5.8
 anvil-uplink==0.3.41
 newspaper3k==0.2.8
 pygooglenews==0.1.2
