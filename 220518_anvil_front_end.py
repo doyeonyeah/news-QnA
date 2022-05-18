@@ -28,7 +28,7 @@ class Form1(Form1Template):
     self.show_status.text = question
     self.repeating_panel.items = results
 
-# TopResults
+## TopResults
 # Display top results
 
 from ._anvil_designer import TopResultsTemplate
